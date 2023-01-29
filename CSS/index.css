@@ -161,7 +161,7 @@ a{
   text-align: center;
   font-size: 130px;
   font-weight: 400;
-  color: yellow;
+  color: white;
   font-family: 'gabriola';
 }
 
@@ -174,21 +174,22 @@ a{
 }
 /*End title*/
 
+/* Start Smartphone */
+
 @media(max-width:600px){
 .section-1 {
-  top: 120px;
+  top: 150px;
 }  
 
 .section-1 h1{
   font-size: 70px;
   font-weight: 300;
-  color: orange;
 }
 
 .section-1 h2{
   font-size: 40px;
   font-weight: 300;
 }
-
-
 }
+
+/* End Smartphone */
