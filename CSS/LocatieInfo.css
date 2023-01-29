@@ -226,6 +226,14 @@ a{
 .main-area p {
   font-size: large;
 }
+
+.map {
+  width: 300px;
+}
+
+.map-container {  
+  padding: 7px 0px;
+}
 }
   
 /* End tablet */
@@ -239,6 +247,14 @@ a{
   
   .main-area p {
     font-size: medium;
+  }
+
+  .map {
+    width: 300px;
+  }
+
+  .map-container {  
+    padding: 3px 0px;
   }
   }
 
