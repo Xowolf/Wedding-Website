@@ -149,6 +149,7 @@ a{
 .map-container {  
   padding: 10px 0px;
   text-align: center;
+  background-color: green;
 }
 
 
@@ -226,14 +227,6 @@ a{
 .main-area p {
   font-size: large;
 }
-
-.map {
-  width: 300px;
-}
-
-.map-container {  
-  padding: 7px 0px;
-}
 }
   
 /* End tablet */
@@ -242,7 +235,7 @@ a{
 
 @media(max-width:768px){
   .main-area h1{
-    font-size: 100px;
+    font-size: 70px;
   }
   
   .main-area p {
@@ -251,10 +244,7 @@ a{
 
   .map {
     width: 300px;
-  }
-
-  .map-container {  
-    padding: 3px 0px;
+    height: 225px;
   }
   }
 
