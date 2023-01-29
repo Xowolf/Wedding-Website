@@ -174,13 +174,18 @@ a{
 }
 /*End title*/
 
-@media(max-width:700px){
-  .section-1 h1{
-    font-size: 90px;
-    font-weight: 300;
+@media(max-width:600px){
+.section-1 {
+  top: 150px;
+}  
+
+.section-1 h1{
+  font-size: 70px;
+  font-weight: 300;
 }
+
 .section-1 h2{
-  font-size: 60px;
+  font-size: 50px;
   font-weight: 300;
 }
 
