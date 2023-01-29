@@ -215,3 +215,31 @@ a{
 }}
 
 /*End countdown*/
+
+/* Start tablet */
+
+@media(max-width:1080px){  
+.main-area h1{
+  font-size: 100px;
+}
+
+.main-area p {
+  font-size: large;
+}
+}
+  
+/* End tablet */
+
+/* Start Smartphone */
+
+@media(max-width:768px){
+  .main-area h1{
+    font-size: 70px;
+  }
+  
+  .main-area p {
+    font-size: medium;
+  }
+  }
+
+/* End Smartphone */
