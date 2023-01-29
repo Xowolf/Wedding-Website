@@ -176,16 +176,16 @@ a{
 
 @media(max-width:600px){
 .section-1 {
-  top: 50px;
+  top: 150px;
 }  
 
 .section-1 h1{
-  font-size: 50px;
+  font-size: 70px;
   font-weight: 300;
 }
 
 .section-1 h2{
-  font-size: 25px;
+  font-size: 50px;
   font-weight: 300;
 }
 
