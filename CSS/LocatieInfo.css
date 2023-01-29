@@ -134,7 +134,7 @@ a{
   text-align: center;
   font-family: 'gabriola';
   color: mediumseagreen;
-  margin-bottom: 10px;
+  margin-bottom: 5px;
 }
 
 .main-area p {
@@ -242,11 +242,11 @@ a{
 
 @media(max-width:768px){
   .main-area h1{
-    font-size: 70px;
+    font-size: 100px;
   }
   
   .main-area p {
-    font-size: medium;
+    font-size: large;
   }
 
   .map {
