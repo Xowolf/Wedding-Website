@@ -149,7 +149,6 @@ a{
 .map-container {  
   padding: 10px 0px;
   text-align: center;
-  background-color: green;
 }
 
 
@@ -246,6 +245,14 @@ a{
     width: 300px;
     height: 225px;
   }
+
+  .day,
+.hour,
+.minute,
+.second {
+  font-size: 2rem;
+}
+
   }
 
 /* End Smartphone */
