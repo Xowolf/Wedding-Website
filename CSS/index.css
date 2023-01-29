@@ -180,8 +180,9 @@ a{
 }  
 
 .section-1 h1{
-  font-size: 70px;
+  font-size: 100px;
   font-weight: 300;
+  color: yellow;
 }
 
 .section-1 h2{
