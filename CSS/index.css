@@ -183,6 +183,7 @@ a{
 
 .section-1 h1{
   font-size: 70px;
+  color:orange;
 }
 
 .section-1 h2{
@@ -194,18 +195,19 @@ a{
 
 /* Start tablet */
 
-/*@media(max-width:768px){
+@media(max-width:768px){
   .section-1 {
     top: 250px;
   }  
   
   .section-1 h1{
     font-size: 100px;
+    color:yellow;
   }
   
   .section-1 h2{
     font-size: 70px;
   }
-  }*/
+  }
   
 /* End tablet */
