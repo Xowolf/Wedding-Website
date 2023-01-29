@@ -176,9 +176,9 @@ a{
 
 /* Start Smartphone */
 
-@media(max-width:600px){
+@media(max-width:400px){
 .section-1 {
-  top: 150px;
+  top: 200px;
 }  
 
 .section-1 h1{
@@ -193,3 +193,23 @@ a{
 }
 
 /* End Smartphone */
+
+/* Start tablet */
+
+@media(max-width:768px){
+  .section-1 {
+    top: 250px;
+  }  
+  
+  .section-1 h1{
+    font-size: 100px;
+    font-weight: 300;
+  }
+  
+  .section-1 h2{
+    font-size: 70px;
+    font-weight: 300;
+  }
+  }
+  
+/* End tablet */
