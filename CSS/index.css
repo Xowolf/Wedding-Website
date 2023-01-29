@@ -176,7 +176,7 @@ a{
 
 /* Start Smartphone */
 
-@media(max-width:600px){
+@media(max-width:768px){
 .section-1 {
   top: 200px;
 }  
@@ -195,7 +195,7 @@ a{
 
 /* Start tablet */
 
-@media(max-width:768px){
+@media(max-width:1080px){
   .section-1 {
     top: 250px;
   }  
