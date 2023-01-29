@@ -176,7 +176,7 @@ a{
 
 /* Start Smartphone */
 
-@media(max-width:400px){
+@media(max-width:500px){
 .section-1 {
   top: 200px;
 }  
