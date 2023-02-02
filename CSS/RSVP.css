@@ -199,8 +199,9 @@ a{
   }
 
   .flower-image {
-    width: 200px;
+    width: 300px;
     height: auto;
+    margin-top: 20px;
   }
   }
     
@@ -220,7 +221,7 @@ a{
     .flower-image {
       width: 300px;
       height: auto;
-      margin-top: 50px;
+      margin-top: 20px;
     }
   }
   
