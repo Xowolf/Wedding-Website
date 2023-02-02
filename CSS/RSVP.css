@@ -223,6 +223,10 @@ a{
       height: auto;
       margin-top: 20px;
     }
+
+    .main-area p {
+      margin-bottom: 30px;
+    }
   }
   
   /* End Smartphone */
