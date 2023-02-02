@@ -18,7 +18,7 @@ document.querySelectorAll(".nav-link").forEach(n => n.
 /* Start countdown */
 const countdown = () => {
     // Specify the date and time we are counting down to.
-    const countDate = new Date("May 20, 2023 00:00:00").getTime()
+    const countDate = new Date("May 20, 2023 01:00:00").getTime()
     const now = new Date().getTime();
 
     // calculate remaining time.
